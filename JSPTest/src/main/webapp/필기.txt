@@ -185,6 +185,11 @@ session, application
 
 WEB-INF > lib에 jar파일 넣으면 톰캣이 알아서 등록해줌
 
+갤러리(이미지 뷰어)
+- "ex21.jsp" 	//메인(읽기)
+- "ex21_ok.jsp" //업로드 처리 페이지(쓰기)
+- "ex21_del.jsp"//삭제 처리 페이지(지우기)
+
 
 
 
